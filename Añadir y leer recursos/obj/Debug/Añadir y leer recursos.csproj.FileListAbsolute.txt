@@ -1,0 +1,6 @@
+C:\Users\Mauricio M\Downloads\Añadir y leer recursos\Añadir y leer recursos\bin\Debug\Añadir y leer recursos.exe.config
+C:\Users\Mauricio M\Downloads\Añadir y leer recursos\Añadir y leer recursos\bin\Debug\Añadir y leer recursos.exe
+C:\Users\Mauricio M\Downloads\Añadir y leer recursos\Añadir y leer recursos\bin\Debug\Añadir y leer recursos.pdb
+C:\Users\Mauricio M\Downloads\Añadir y leer recursos\Añadir y leer recursos\obj\Debug\Añadir y leer recursos.csprojResolveAssemblyReference.cache
+C:\Users\Mauricio M\Downloads\Añadir y leer recursos\Añadir y leer recursos\obj\Debug\Añadir y leer recursos.exe
+C:\Users\Mauricio M\Downloads\Añadir y leer recursos\Añadir y leer recursos\obj\Debug\Añadir y leer recursos.pdb
